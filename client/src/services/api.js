@@ -12,3 +12,5 @@ export const deleteProduct = (id) => api.delete(`/products/${id}`);
 
 export const getAnalytics = () => api.get('/products/analytics');
 export const getLowStock = () => api.get('/products/low-stock');
+
+//Helllo
